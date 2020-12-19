@@ -1,4 +1,3 @@
-import React from 'react';
 import QuoteBox from './containers/QuoteBox';
 import './App.css';
 
